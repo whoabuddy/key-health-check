@@ -1,0 +1,9 @@
+[project]
+name = "key-health-check"
+requirements = []
+costs_version = 2
+analysis = ["all"]
+
+[contracts.key-health-check]
+path = "contracts/key-health-check.clar"
+depends_on = []
